@@ -1,0 +1,2 @@
+# genAI
+My studies
